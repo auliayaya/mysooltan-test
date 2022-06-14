@@ -2,7 +2,7 @@
 
 
 Hai everyone, this is repo for completing  My Sooltan Backend Developer Assessment Test.
-
+I upload the detail about project setup, structure and development here [link](https://auliaillahi.my.id/my-sooltan-backend-developer-assessment-test/)
 
 ## Notes
 
